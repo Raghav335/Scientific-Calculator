@@ -35,4 +35,21 @@ A responsive and user-friendly Scientific Calculator built using **HTML**, **CSS
 
 ---
 
-## 📁 Folder Structure
+## 📁 Folder Structure---
+
+
+## 👨‍💻 Author
+
+**Raghav Gupta**  
+🔗 [GitHub](https://github.com/Raghav335)  
+🔗 [LinkedIn](https://www.linkedin.com/in/raghav-gupta-8a9152328/)
+
+---
+
+## 📃 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+⭐️ If you like this project, give it a star on GitHub!
