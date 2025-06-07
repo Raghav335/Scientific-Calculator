@@ -12,8 +12,7 @@ A responsive and user-friendly Scientific Calculator built using **HTML**, **CSS
 
 ## 📷 Preview
 
-![Calculator Preview](screenshot.png)  
-*(Add a screenshot image of your project in the repo and rename it `screenshot.png`)*
+![Calculator Preview * https://github.com/Raghav335/Scientific-Calculator/blob/main/calculator.jpg
 
 ---
 
